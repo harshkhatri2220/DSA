@@ -1,0 +1,9 @@
+{
+    "files.refactoring.autoSave": false,
+    "C_Cpp.codeAnalysis.runAutomatically": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100000,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
